@@ -4,7 +4,7 @@ Application Templates
 ********************
 template: template-sbh-ms
 
-Descr: Microservice
+Descr: Microservice, only BE
 
 Tech:springboot, hibernate 
 
@@ -12,12 +12,12 @@ Tech:springboot, hibernate
 ********************
 template: template-sb-web
 
-Descr: WebApplication
+Descr: WebApplication, only FE
 
 Tech:springboot
 
 ********************
-template: template-swebapp-jdbct
+template: template-webapp-jdbct
 
 Descr Full WebApplication FE+BE
 
